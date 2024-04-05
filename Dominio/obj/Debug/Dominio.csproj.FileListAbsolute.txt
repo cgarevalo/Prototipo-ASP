@@ -1,0 +1,6 @@
+A:\Archivos\Cristian\Curso de maxi programa\Curso de C# nivel 3\Actividades\Prototipo ASP\Dominio\bin\Debug\Dominio.dll
+A:\Archivos\Cristian\Curso de maxi programa\Curso de C# nivel 3\Actividades\Prototipo ASP\Dominio\bin\Debug\Dominio.pdb
+A:\Archivos\Cristian\Curso de maxi programa\Curso de C# nivel 3\Actividades\Prototipo ASP\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+A:\Archivos\Cristian\Curso de maxi programa\Curso de C# nivel 3\Actividades\Prototipo ASP\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+A:\Archivos\Cristian\Curso de maxi programa\Curso de C# nivel 3\Actividades\Prototipo ASP\Dominio\obj\Debug\Dominio.dll
+A:\Archivos\Cristian\Curso de maxi programa\Curso de C# nivel 3\Actividades\Prototipo ASP\Dominio\obj\Debug\Dominio.pdb
